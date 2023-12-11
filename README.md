@@ -1,4 +1,5 @@
 # BLE-DEMO
+Minimalistische Beispielprogramme für BLE auf dem Arduino Nano 33 BLE. Die beiden Sketches laufen auf jeweils einem Arduino, wobei einer an einen Computer angeschlossen ist.<br>
 1. DEMOcentral.ino<br>
 2. DEMOperipheral.ino<br>
 <br>
